@@ -3,7 +3,7 @@
 #### By Muhammad Al-farisy
 <hr>
 
-Dataset ini merupakan data real, sumber data dari [![Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)]
+Dataset ini merupakan data real, sumber data dari ![Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)]
 
 <hr>
 
