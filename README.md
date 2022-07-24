@@ -3,7 +3,7 @@
 #### By Muhammad Al-farisy
 <hr>
 
-Dataset ini merupakan data real, sumber data dari ![Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)]
+Dataset ini merupakan data real,[sumber data dari ]((https://www.kaggle.com/datasets/harlfoxem/housesalesprediction), analisa yang dilakukan dalam dataset ini untuk tahun 2014-2015. Masalah pada dataset ini perusahaan di King County mengalami kendala untuk memprediksi harga rumah yang akurat, sehingga dibutuhkan sebuah model machine learning untuk membantu perusahaan dalam menentukan harga rumah.
 
 <hr>
 
